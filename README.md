@@ -1,5 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
+</h2>
 
 This project was built using the following frameworks/libraries.
 
@@ -13,7 +14,7 @@ This project was built using the following frameworks/libraries.
 
 Clone this repo, you will need `node.js` and `git`.
 
-## 🛠 Installation and Setup Instructions
+## Installation and Setup Instructions
 
 1. `npm install`
 
